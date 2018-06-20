@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShopWithQr</string>
+    <string name="result_text_default">Scan the QR code </string>
+</resources>
